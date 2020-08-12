@@ -1,1 +1,1 @@
-# lstm-musicgenerator
+# LSTM Music Generator
